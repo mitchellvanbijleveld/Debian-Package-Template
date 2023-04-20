@@ -1,0 +1,7 @@
+Package: hello-world
+Version: 1.0.0
+Section: main
+Priority: optional
+Architecture: amd64
+Maintainer: Mitchell van Bijleveld <hello@mitchellvanbijleveld.dev>
+Description: Hello World by Mitchell van Bijleveld

@@ -1,6 +1,6 @@
 Package: hello-world
 Version: 1.0.0
-Section: main
+Section: utils
 Priority: optional
 Architecture: amd64
 Maintainer: Mitchell van Bijleveld <hello@mitchellvanbijleveld.dev>
